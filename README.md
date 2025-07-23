@@ -12,5 +12,6 @@ Below is a list of active free OP servers in Minecraft. Feel free to contribute 
 |     FreeOPMC     |       play.freeopmc.com       |     Premium     |            Yes            |   Allowed   |      Yes       |
 |     MaiCraft     |       69.162.95.99:26897      |     Premium     |            Yes            |   Allowed   |      Yes       |
 |    UniqueCraft   |      play.uniquecraft.eu      |     Premium     |            Yes            |   Allowed   |       No       |
+|      Kaboom       |             kaboom.pw          |     Cracked     |           Yes            | Not allowed |       Yes       |
 
-Last updated on April 17, 2016
+Last updated on June 23rd, 2025
